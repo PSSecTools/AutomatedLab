@@ -5,8 +5,11 @@
 ### Enhancements
 
 - Fixed issue with Linux and Test-LabHostConnected sometimes not able to reliably ping
+- Removed WindowsAdminCenter custom role
 
 ### Bugs
+
+- Fixed WindowsAdminCenter built-in role to work with current InnoSetup-based installer (#1686)
 
 ## 5.56.0 (2025-01-26)
 
